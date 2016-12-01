@@ -1,2 +1,3 @@
 name: Ramiro Silveyra Gonzalez
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
